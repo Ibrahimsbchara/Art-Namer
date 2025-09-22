@@ -1,0 +1,5 @@
+{
+  "name": "Art Namer AI",
+  "description": "Upload your artwork and let Gemini AI suggest a creative and evocative name for it. Perfect for artists looking for inspiration.",
+  "requestFramePermissions": []
+}
